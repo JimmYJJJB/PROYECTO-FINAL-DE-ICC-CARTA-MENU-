@@ -1,0 +1,5 @@
+mesa N: 
+1 Aji de gallina  =  S/.13
+total de mesa = S/.13
+TOTAL = S/. 
+13
